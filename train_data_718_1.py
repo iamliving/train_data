@@ -2,13 +2,7 @@
 """
 Created on Fri Jul 21 16:24:01 2017
 
-@author: Administrator
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 27 15:46:13 2017
-@author: Administrator
+@author: living
 """
 '''
 cd /home
