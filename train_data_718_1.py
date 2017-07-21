@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jul 21 16:24:01 2017
-
 @author: living
-"""
-'''
 cd /home
 python2.7 train_data_627_1.py
 '''
